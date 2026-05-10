@@ -1,4 +1,4 @@
-# maize_price_forecasting_in_kenya
+# Maize Price Forecasting in Kenya
 This project builds a multi-horizon time-series forecasting model to predict weekly wholesale prices of dry maize in Kenya's counties of Nairobi, Kirinyaga, and Uasin Gishu.
 
 Using historical transaction data, the model forecasts prices for the next two consecutive weeks.
